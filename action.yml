@@ -22,7 +22,7 @@ inputs:
     required: true
     default: ${{ github.repository }}
 
-  templateType:
+  template:
     description: Select the report template type you want to use. For example, `summary` or `report`.
     default: summary
 
